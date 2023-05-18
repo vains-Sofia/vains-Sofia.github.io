@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>待办列表-新</title>
+    <link href="/2023/05/18/todo-new/"/>
+    <url>/2023/05/18/todo-new/</url>
+    
+    <content type="html"><![CDATA[<h1 id="待办列表"><a href="#待办列表" class="headerlink" title="待办列表"></a>待办列表</h1><ul><li><input checked="" disabled="" type="checkbox"> 升级SpringBoot版本至3.x，升级SpringCloud和SpringCloud Alibaba版本至2022.x，升级JDK版本至17</li><li><input checked="" disabled="" type="checkbox"> <del>升级Spring Authorization Server版本至1.0.1</del></li><li><input disabled="" type="checkbox"> 升级Spring Authorization Server版本至1.1.0-RC1</li><li><input checked="" disabled="" type="checkbox"> 接口文档切换为knife4j，优化切换微服务时认证信息清除现象</li><li><input checked="" disabled="" type="checkbox"> 登录添加图形验证码</li><li><input disabled="" type="checkbox"> 添加设备码授权方式</li><li><input disabled="" type="checkbox"> 优化账号体系，参考<a href="https://blog.csdn.net/baidu_39322753/article/details/124146766"><strong>多账号统一登陆，账号模块的系统设计</strong></a></li><li><input disabled="" type="checkbox"> 持久化github和gitee账号登录</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>todo</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Spring Authorization Server</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>待办列表</title>
     <link href="/2022/05/12/todo/"/>
     <url>/2022/05/12/todo/</url>

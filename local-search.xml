@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>常用网站</title>
+    <link href="/2023/05/22/common-websites/"/>
+    <url>/2023/05/22/common-websites/</url>
+    
+    <content type="html"><![CDATA[<h2 id="文档网站"><a href="#文档网站" class="headerlink" title="文档网站"></a>文档网站</h2><h3 id="Spring"><a href="#Spring" class="headerlink" title="Spring"></a><a href="https://spring.io/">Spring</a></h3><h3 id="Mybatis-Plus"><a href="#Mybatis-Plus" class="headerlink" title="Mybatis-Plus"></a><a href="https://www.baomidou.com/">Mybatis-Plus</a></h3><h3 id="Knife4j"><a href="#Knife4j" class="headerlink" title="Knife4j"></a><a href="https://doc.xiaominfo.com/docs/quick-start">Knife4j</a></h3><h3 id="Nacos"><a href="#Nacos" class="headerlink" title="Nacos"></a><a href="https://nacos.io/zh-cn/index.html">Nacos</a></h3><h3 id="Vue-js"><a href="#Vue-js" class="headerlink" title="Vue.js"></a><a href="https://cn.vuejs.org/">Vue.js</a></h3><h3 id="Vue-Router"><a href="#Vue-Router" class="headerlink" title="Vue-Router"></a><a href="https://router.vuejs.org/zh/guide/">Vue-Router</a></h3><h3 id="Vue-i18n"><a href="#Vue-i18n" class="headerlink" title="Vue-i18n"></a><a href="https://vue-i18n.intlify.dev/">Vue-i18n</a></h3><h3 id="pinia"><a href="#pinia" class="headerlink" title="pinia"></a><a href="https://pinia.web3doc.top/">pinia</a></h3><h3 id="naive-ui"><a href="#naive-ui" class="headerlink" title="naive ui"></a><a href="https://www.naiveui.com/zh-CN/light">naive ui</a></h3><h2 id="JSON"><a href="#JSON" class="headerlink" title="JSON"></a>JSON</h2><h3 id="JSON格式化"><a href="#JSON格式化" class="headerlink" title="JSON格式化"></a><a href="https://www.json.cn/">JSON格式化</a></h3><h2 id="编码"><a href="#编码" class="headerlink" title="编码"></a>编码</h2><h3 id="URL编码"><a href="#URL编码" class="headerlink" title="URL编码"></a><a href="http://www.jsons.cn/urlencode/">URL编码</a></h3><h3 id="JWT解密"><a href="#JWT解密" class="headerlink" title="JWT解密"></a><a href="https://www.box3.cn/tools/jwt.html">JWT解密</a></h3><h3 id="在线生成二维码"><a href="#在线生成二维码" class="headerlink" title="在线生成二维码"></a><a href="https://www.hlcode.cn/?p=bd-kccs-sc-220225-3&bd_vid=8599122429868694438">在线生成二维码</a></h3><h3 id="在线解析二维码"><a href="#在线解析二维码" class="headerlink" title="在线解析二维码"></a><a href="https://www.hlcode.cn/decode">在线解析二维码</a></h3><h3 id="在线MD5、base64编码、sha1加密…"><a href="#在线MD5、base64编码、sha1加密…" class="headerlink" title="在线MD5、base64编码、sha1加密…"></a><a href="http://www.jsons.cn/md5">在线MD5、base64编码、sha1加密…</a></h3><h3 id="在线AES加解密、DES加解密"><a href="#在线AES加解密、DES加解密" class="headerlink" title="在线AES加解密、DES加解密"></a><a href="https://www.sojson.com/encrypt_aes.html">在线AES加解密、DES加解密</a></h3><h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2><h3 id="文本差异比对"><a href="#文本差异比对" class="headerlink" title="文本差异比对"></a><a href="https://www.jq22.com/textDifference">文本差异比对</a></h3><h2 id="后端开发工具下载网站"><a href="#后端开发工具下载网站" class="headerlink" title="后端开发工具下载网站"></a>后端开发工具下载网站</h2><h3 id="JDK"><a href="#JDK" class="headerlink" title="JDK"></a><a href="https://www.oracle.com/java/technologies/downloads/">JDK</a></h3><h3 id="MySQL"><a href="#MySQL" class="headerlink" title="MySQL"></a><a href="https://dev.mysql.com/downloads/mysql/">MySQL</a></h3><h3 id="Redis"><a href="#Redis" class="headerlink" title="Redis"></a><a href="https://redis.io/download/">Redis</a></h3><h3 id="ElasticSearch"><a href="#ElasticSearch" class="headerlink" title="ElasticSearch"></a><a href="https://www.elastic.co/cn/downloads/elasticsearch">ElasticSearch</a></h3><h3 id="RabbitMQ-ErLangVersion-Erlang"><a href="#RabbitMQ-ErLangVersion-Erlang" class="headerlink" title="RabbitMQ ErLangVersion Erlang"></a><a href="https://www.rabbitmq.com/download.html">RabbitMQ</a> <a href="https://www.rabbitmq.com/which-erlang.html">ErLangVersion</a> <a href="https://www.erlang.org/downloads">Erlang</a></h3><h3 id="Maven"><a href="#Maven" class="headerlink" title="Maven"></a><a href="https://maven.apache.org/download.cgi">Maven</a></h3><h3 id="Git"><a href="#Git" class="headerlink" title="Git"></a><a href="https://git-scm.com/downloads">Git</a></h3><h3 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a><a href="https://www.linux.org/pages/download/">Linux</a></h3><h3 id="Tomcat10"><a href="#Tomcat10" class="headerlink" title="Tomcat10"></a><a href="https://tomcat.apache.org/download-10.cgi">Tomcat10</a></h3><h3 id="Navicat"><a href="#Navicat" class="headerlink" title="Navicat"></a><a href="https://www.navicat.com.cn/">Navicat</a></h3><h3 id="Postman"><a href="#Postman" class="headerlink" title="Postman"></a><a href="https://www.postman.com/">Postman</a></h3><h2 id="前端开发工具下载"><a href="#前端开发工具下载" class="headerlink" title="前端开发工具下载"></a>前端开发工具下载</h2><h3 id="NodeJs"><a href="#NodeJs" class="headerlink" title="NodeJs"></a><a href="https://nodejs.org/zh-cn">NodeJs</a></h3><h3 id="Nginx"><a href="#Nginx" class="headerlink" title="Nginx"></a><a href="http://nginx.org/en/download.html">Nginx</a></h3><h3 id="VsCode"><a href="#VsCode" class="headerlink" title="VsCode"></a><a href="https://code.visualstudio.com/">VsCode</a></h3>]]></content>
+    
+    
+    <categories>
+      
+      <category>工具</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>工具</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>待办列表-新</title>
     <link href="/2023/05/18/todo-new/"/>
     <url>/2023/05/18/todo-new/</url>

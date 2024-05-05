@@ -159,7 +159,6 @@ function getItems(path: string) {
 
   // 添加序号
   addOrderNumber(groups);
-  console.log(groups)
   return groups;
 }
 

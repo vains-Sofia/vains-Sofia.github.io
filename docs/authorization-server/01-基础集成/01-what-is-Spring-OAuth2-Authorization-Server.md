@@ -6,6 +6,7 @@ isTop: fasle
 categories:
  - 认证服务集成
 tags:
+ - OAuth 2.1
  - Spring Boot
  - Spring Security
  - Spring OAuth2 Authorization Server

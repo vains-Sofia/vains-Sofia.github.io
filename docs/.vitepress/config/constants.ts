@@ -1,10 +1,10 @@
-const site = 'https://blog.charles7c.top';
+const site = 'https://vains-sofia.gitee.io';
 
 export const metaData = {
   lang: 'zh-CN',
   locale: 'zh_CN',
-  title: '认证服务集成专栏',
-  description: 'Spring Security团队最新推出的认证(授权)服务框架，本专栏内汇总集成教程',
+  title: '云逸的知识库',
+  description: '个人技术知识库，记录和分享个人碎片化、结构化、体系化的技术知识内容',
   site,
   image: `${site}/logo.jpg`,
 };

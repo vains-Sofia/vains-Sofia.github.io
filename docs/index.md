@@ -1,11 +1,11 @@
 ---
 layout: home
 
-title: Vains的知识库
+title: 云逸的知识库
 titleTemplate: 个人技术知识库，记录和分享个人碎片化、结构化、体系化的技术知识内容
 
 hero:
-  name: Vains的知识库
+  name: 云逸的知识库
   # text: 专注 & 洞察 & 分享
   tagline: 个人技术知识库，记录和分享个人碎片化、结构化、体系化的技术知识内容
   image:
@@ -13,11 +13,11 @@ hero:
     alt: Logo
   actions:
     - theme: brand
-      text: 简单集成
+      text: 开始浏览
       link: /authorization-server/01-基础集成/01-what-is-Spring-OAuth2-Authorization-Server
     - theme: alt
-      text: 在 GitHub 查看
-      link: https://github.com/Charles7c/charles7c.github.io
+      text: 在 Gitee 查看
+      link: https://gitee.com/vains-Sofia/vains-Sofia.git
 
 features:
   - icon:
